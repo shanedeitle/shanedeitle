@@ -1,6 +1,6 @@
 # Hi, I’m Shane 👋
 
-- **Current Role:** Security Engineer III @ Verizon  
+- **Current Role:** Security Engineer III, Security Architecture team @ Verizon  
 - **Focus:** Cloud Security Architecture (AWS, IAM, Zero Trust, IaC)  
 - **Degrees:** B.S. & M.S. in Cybersecurity and Information Assurance  
 - **Certifications:** SSCP, CySA+, PenTest+, Security+, ITIL, Network+, Project+  
