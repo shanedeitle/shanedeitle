@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Shane 👋
 
-<!--
-**shanedeitle/shanedeitle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Current Role:** Security Engineer III @ Verizon  
+- **Focus:** Cloud Security Architecture (AWS, IAM, Zero Trust, IaC)  
+- **Degrees:** B.S. & M.S. in Cybersecurity and Information Assurance  
+- **Certifications:** SSCP, CySA+, PenTest+, Security+, ITIL, Network+, Project+  
+- **Currently Learning:** AWS Solutions Architect Pro & AWS Security Specialty  
+- **Portfolio Goal:** Documenting hands-on projects in Cloud Security, Risk Management, and Offensive Security  
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/deitle/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Building secure, scalable cloud environments while documenting my journey toward Cloud Security Architecture mastery."*
